@@ -16,7 +16,7 @@ This repo tracks my progress through the tutorial chapters. Each folder correspo
 - **Tests**: The corresponding test files (`.go` tests).
 <!-- - **Notes**: Optional notes or reflections on key concepts learned in that section. -->
 
-### Structure
+### Project Structure
 ```text
 .
 ├── chapter-1-strings
