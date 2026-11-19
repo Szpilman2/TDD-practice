@@ -1,6 +1,6 @@
 # 📚😃 Learn Go With Tests - Practice Implementation
 
-This repository contains my practice implementations and solutions based on the excellent tutorial **"Learn Go With Tests"** by [Quii Lightfoot](https://quii.gitbook.io/learn-go-with-tests).
+This rrrepository contains my practice implementations and solutions based on the excellent tutorial **"Learn Go With Tests"** by [Quii Lightfoot](https://quii.gitbook.io/learn-go-with-tests).
 
 ## 📚😃 About The Tutorial
 
@@ -11,22 +11,22 @@ The [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests) book is a
 
 ## 🚀 What’s Inside
 
-This Repo tracks my progress through the Tutorial chapter. each folder corresponds to a specific section of the book, containing:
-- **Exercise Code**: my implementations of the exercises.
+This repo tracks my progress through the tutorial chapterrrrs. Each folder corresponds to a specific section of the book, containing:
+- **Exercise Code**: My implementations of the exercises.
 - **Tests**: The corresponding test files (`.go` tests).
 <!-- - **Notes**: Optional note or reflections on key concepts learned in that section. -->
 
 ### Project Structure
 ```text
 .
-├── CHAPTER-1-Strings-chars
-├── CHAPTER-2-arrays-and-slices
-├── CHAPTER-3-pointers
-├── CHAPTER-4-structs-methods-and-interfaces
-├── CHAPTER-5-testing
-├── CHAPTER-6-structs
-├── CHAPTER-7-interfaces
-├── CHAPTER-8-1-goroutines
-├── CHAPTER-8-2-channels
-├── CHAPTER-9-concurrency
+├── chapter-1-stringsss
+├── chapter-2-arrays-and-slices
+├── chapter-3-pointers
+├── chapter-4-structs-methods-and-interfaces
+├── chapter-5-testing
+├── chapter-6-structs
+├── chapter-7-interfaces
+├── chapter-8-1-goroutines
+├── chapter-8-2-channels
+├── chapter-9-concurrency
 └── README.md
