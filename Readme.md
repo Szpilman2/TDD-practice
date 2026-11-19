@@ -1,6 +1,6 @@
 # Learn Go With Tests - Practice Implementation
 
-This repository contains my practice implementations and solutions based on the excellent tutorial **"Learn Go With Tests"** by [Quii Lightfoot](https://quii.gitbook.io/learn-go-with-tests).
+This rrrepository contains my practice implementations and solutions based on the excellent tutorial **"Learn Go With Tests"** by [Quii Lightfoot](https://quii.gitbook.io/learn-go-with-tests).
 
 ## 📚 About the Tutorial
 
