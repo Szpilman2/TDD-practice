@@ -11,7 +11,7 @@ The [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests) book is a
 
 ## 🚀 What’s Inside
 
-This repo tracks my progress through the tutorial chapters. Each folder corresponds to a specific section of the book, containing:
+This repo tracks my progress through the tutorial chapterrrrs. Each folder corresponds to a specific section of the book, containing:
 - **Exercise Code**: My implementations of the exercises.
 - **Tests**: The corresponding test files (`.go` tests).
 <!-- - **Notes**: Optional notes or reflections on key concepts learned in that section. -->
@@ -19,7 +19,7 @@ This repo tracks my progress through the tutorial chapters. Each folder correspo
 ### Structure
 ```text
 .
-├── chapter-1-stringss
+├── chapter-1-stringsss
 ├── chapter-2-arrays-and-slices
 ├── chapter-3-pointers
 ├── chapter-4-structs-methods-and-interfaces
