@@ -19,7 +19,7 @@ This Repo tracks my progress through the tutorial chapter. Each folder correspon
 ### Project Structure
 ```text
 .
-├── chapter-1-strings-chars
+├── chapter-1-Strings-chars
 ├── chapter-2-arrays-and-slices
 ├── chapter-3-pointers
 ├── chapter-4-structs-methods-and-interfaces
