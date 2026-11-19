@@ -14,7 +14,7 @@ The [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests) book is a
 This repo tracks my progress through the tutorial chapters. Each folder corresponds to a specific section of the book, containing:
 - **Exercise Code**: My implementations of the exercises.
 - **Tests**: The corresponding test files (`.go` tests).
-<!-- - **Notes**: Optional notes or reflections on key concepts learned in that section. -->
+<!-- - **Notes**: Optional note or reflections on key concepts learned in that section. -->
 
 ### Project Structure
 ```text
