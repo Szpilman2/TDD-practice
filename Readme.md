@@ -19,14 +19,14 @@ This Repo tracks my progress through the Tutorial chapter. each folder correspon
 ### Project Structure
 ```text
 .
-├── chapter-1-Strings-chars
-├── chapter-2-arrays-and-slices
-├── chapter-3-pointers
-├── chapter-4-structs-methods-and-interfaces
-├── chapter-5-testing
-├── chapter-6-structs
-├── chapter-7-interfaces
-├── chapter-8-1-goroutines
-├── chapter-8-2-channels
-├── chapter-9-concurrency
+├── CHAPTER-1-Strings-chars
+├── CHAPTER-2-arrays-and-slices
+├── CHAPTER-3-pointers
+├── CHAPTER-4-structs-methods-and-interfaces
+├── CHAPTER-5-testing
+├── CHAPTER-6-structs
+├── CHAPTER-7-interfaces
+├── CHAPTER-8-1-goroutines
+├── CHAPTER-8-2-channels
+├── CHAPTER-9-concurrency
 └── README.md
