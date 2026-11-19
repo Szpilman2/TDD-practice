@@ -2,7 +2,7 @@
 
 This repository contains my practice implementations and solutions based on the excellent tutorial **"Learn Go With Tests"** by [Quii Lightfoot](https://quii.gitbook.io/learn-go-with-tests).
 
-## 📚 About The Tutorial
+## 📚😃 About The Tutorial
 
 The [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests) book is a Highly recommended resource for learning the Go programming language. It focuses on:
 - Writing clean, idiomatic Go code.
