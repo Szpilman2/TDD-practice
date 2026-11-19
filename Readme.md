@@ -7,7 +7,7 @@ This repository contains my practice implementations and solutions based on the 
 The [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests) book is a Highly recommended resource for learning the Go programming language. It focuses on:
 - Writing clean, idiomatic Go code.
 - Mastering testing and TDD (Test-Driven Development).
-- Understanding core Go concepts like interfaces, concurrency, and error handling.
+- Understanding core Go concepts like interfaces, concurrency, and error handling..
 
 ## 🚀 What’s Inside
 
