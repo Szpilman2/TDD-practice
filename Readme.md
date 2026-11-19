@@ -1,22 +1,22 @@
-# Learn Go With Tests - Practice Implementation
+# 📚😃 Learn Go With Tests - Practice Implementation
 
 This rrrepository contains my practice implementations and solutions based on the excellent tutorial **"Learn Go With Tests"** by [Quii Lightfoot](https://quii.gitbook.io/learn-go-with-tests).
 
-## 📚 About the Tutorial
+## 📚😃 About The Tutorial
 
-The [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests) book is a highly recommended resource for learning the Go programming language. It focuses on:
+The [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests) book is a Highly recommended resource for learning the Go programming language. It focuses on:
 - Writing clean, idiomatic Go code.
 - Mastering testing and TDD (Test-Driven Development).
-- Understanding core Go concepts like interfaces, concurrency, and error handling.
+- Understanding core Go concepts like interfaces, concurrency, and error handling..
 
 ## 🚀 What’s Inside
 
 This repo tracks my progress through the tutorial chapterrrrs. Each folder corresponds to a specific section of the book, containing:
 - **Exercise Code**: My implementations of the exercises.
 - **Tests**: The corresponding test files (`.go` tests).
-<!-- - **Notes**: Optional notes or reflections on key concepts learned in that section. -->
+<!-- - **Notes**: Optional note or reflections on key concepts learned in that section. -->
 
-### Structure
+### Project Structure
 ```text
 .
 ├── chapter-1-stringsss
